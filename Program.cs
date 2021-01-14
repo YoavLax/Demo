@@ -6,8 +6,11 @@ namespace Demo1
     {
         static void Main(string[] args)
         {
-            int i;
+            int i = 0;
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Iteration number: " + i);
+            i=10;
+            Console.WriteLine(i++);
         }
     }
 }
