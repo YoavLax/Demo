@@ -6,5 +6,7 @@ namespace Demo1
 {
     class Person
     {
+        string name;
+        int age;
     }
 }
