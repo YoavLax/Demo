@@ -8,5 +8,8 @@ namespace Demo1
     {
         string nickname;
         string BirthYear;
+        string name;
+        int age;
+        int i;
     }
 }
