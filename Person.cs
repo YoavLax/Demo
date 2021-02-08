@@ -12,5 +12,7 @@ namespace Demo1
         int age;
         int a;
         string ID;
+        bool IsTrue;
+        Guid Identifier;
     }
 }
