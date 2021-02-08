@@ -10,6 +10,6 @@ namespace Demo1
         string BirthYear;
         string name;
         int age;
-        int a;
+        int asd;
     }
 }
