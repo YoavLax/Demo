@@ -11,5 +11,6 @@ namespace Demo1
         string name;
         int age;
         int a;
+        bool IsTrue;
     }
 }
