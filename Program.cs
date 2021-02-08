@@ -9,7 +9,7 @@ namespace Demo1
             int i = 0;
             Console.WriteLine("Hello World!");
             Console.WriteLine("Iteration number: " + i);
-            i=10;
+            i=1000;
             Console.WriteLine(i++);
         }
     }
