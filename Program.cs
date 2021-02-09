@@ -11,7 +11,7 @@ namespace Demo1
             Console.WriteLine("Iteration number: " + i);
             i=100;
             Console.WriteLine(i++);
-            Console.WriteLine("Welcome");
+            Console.WriteLine("Home");
         }
     }
 }
