@@ -8,3 +8,4 @@
 /Demo1.csproj
 .vs 
 *.log
+*.csv
