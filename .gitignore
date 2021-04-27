@@ -7,3 +7,4 @@
 /Demo1.sln
 /Demo1.csproj
 .vs 
+*.log
