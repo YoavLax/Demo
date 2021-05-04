@@ -14,8 +14,5 @@ namespace Demo1
         string ID;
         bool IsTrue;
         Guid Identifier;
-        // change from release 1
-        // change from feature
     }
 }
-//HelloFromCMD 
